@@ -1,7 +1,7 @@
 from datetime import date, datetime
 import telebot;
 
-#bot = telebot.TeleBot('2073824695:AAEwMLoN-Q5e5vQMfTc3hZmV2Azg3tAZbgI');
+#bot = telebot.TeleBot('2073824695:');
 
 
 
