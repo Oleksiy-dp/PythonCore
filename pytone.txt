@@ -1,0 +1,3 @@
+pip install pyTelegramBotAPI  #api telebot
+
+pip install telebot
